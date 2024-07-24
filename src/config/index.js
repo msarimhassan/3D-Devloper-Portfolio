@@ -1,5 +1,5 @@
 const config = {
-  pages: ['Home', 'About', 'Projects', 'Contacts'],
+  pages: ['home', 'skills', 'projects', 'contact'],
   home: {
     title: 'Sarim',
     subtitle: 'Hassan',

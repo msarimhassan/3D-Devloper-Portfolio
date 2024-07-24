@@ -1,5 +1,6 @@
 import { ScrollControls, Scroll } from '@react-three/drei';
 import { Canvas } from '@react-three/fiber';
+import { MotionConfig, motion } from 'framer-motion';
 
 import config from './config';
 import Home from './views/home';
